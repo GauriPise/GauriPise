@@ -54,9 +54,9 @@
 | 🛒 E-commerce Data Analysis | Python, Power BI, Excel | [View Project](https://github.com/GauriPise/Ecommerce-data-analysis) |
 | 🎵 Spotify Data Analysis | Python, SQL | [View Project](https://github.com/GauriPise/Spotify) |
 | 🏥 Healthcare Data Analysis | Python, Power BI | [View Project](https://github.com/GauriPise/Healthcare) |
-| 🏦 Bank Data Analysis | SQL, Excel | [View Project](https://github.com/GauriPise/Bank) |
-| 🍔 Swiggy Data Analysis | Python, SQL | [View Project](https://github.com/GauriPise/Swiggy) |
-| 🏥 Hospital Dashboard (Power BI) | Power BI | [View Project](https://github.com/GauriPise/Hospital) |
+| 🏦 Bank Data Analysis | Excel, Power BI, Tbleau| [View Project](https://github.com/GauriPise/Bank) |
+| 🍔 Swiggy Data Analysis |Excel, Power BI, Tbleau | [View Project](https://github.com/GauriPise/Swiggy) |
+| 🏥 Hospital Dashboard (Power BI) |Excel, Power BI, Tbleau| [View Project](https://github.com/GauriPise/Hospital) |
 | 🛒Amazon Dashboard (Power BI) | Power BI | [View Project](https://github.com/GauriPise/Amazon-Dashboard.git) |
 | 📈Sales Trend - I (Power BI) | Microsoft Excel  | [View Project](https://github.com/GauriPise/Sales-Trend--I.git) |
 | 📈Sales Trend - II (Power BI) |Microsoft Excel  | [View Project](https://github.com/GauriPise/Sales-Trend--II.git) |
