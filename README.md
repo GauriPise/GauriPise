@@ -51,9 +51,9 @@
 | Project Name | Tools Used | View Project |
 |-------------|-----------|--------------|
 | 🚗 Uber Data Analysis | SQL, Python, Power BI | [View Project](https://github.com/GauriPise/Uber) |
-| 🛒 E-commerce Data Analysis | Python, Power BI, Excel | [View Project](https://github.com/GauriPise/Ecommerce-data-analysis) |
-| 🎵 Spotify Data Analysis | Python, SQL | [View Project](https://github.com/GauriPise/Spotify) |
-| 🏥 Healthcare Data Analysis | Python, Power BI | [View Project](https://github.com/GauriPise/Healthcare) |
+| 🛒 E-commerce Data Analysis | Python, Power BI, SQL| [View Project](https://github.com/GauriPise/Ecommerce-data-analysis) |
+| 🎵 Spotify Data Analysis | Excel, Power BI, Tbleau | [View Project](https://github.com/GauriPise/Spotify) |
+| 🏥 Healthcare Data Analysis | Python, Power BI,SQL | [View Project](https://github.com/GauriPise/Healthcare) |
 | 🏦 Bank Data Analysis | Excel, Power BI, Tbleau| [View Project](https://github.com/GauriPise/Bank) |
 | 🍔 Swiggy Data Analysis |Excel, Power BI, Tbleau | [View Project](https://github.com/GauriPise/Swiggy) |
 | 🏥 Hospital Dashboard (Power BI) |Excel, Power BI, Tbleau| [View Project](https://github.com/GauriPise/Hospital) |
