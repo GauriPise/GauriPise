@@ -57,11 +57,10 @@
 | 🏦 Bank Data Analysis | SQL, Excel | [View Project](https://github.com/GauriPise/Bank) |
 | 🍔 Swiggy Data Analysis | Python, SQL | [View Project](https://github.com/GauriPise/Swiggy) |
 | 🏥 Hospital Dashboard (Power BI) | Power BI, SQL | [View Project](https://github.com/GauriPise/Hospital) |
-| 📊IPL Dashboard (Power BI) | Power BI, SQL, Excel | [View Project](https://github.com/GauriPise/IPL-Dashboard.git) |
 | 🛒Amazon Dashboard (Power BI) | Power BI, SQL, Excel | [View Project](https://github.com/GauriPise/Amazon-Dashboard.git) |
 | 📈Sales Trend - I (Power BI) | Power BI, SQL, Excel | [View Project](https://github.com/GauriPise/Sales-Trend--I.git) |
 | 📈Sales Trend - II (Power BI) | Power BI, SQL, Excel | [View Project](https://github.com/GauriPise/Sales-Trend--II.git) |
-| 🛒📊Global Superstore Dashboard(Power BI) | Power BI, SQL, Excel | [View Project](https://github.com/GauriPise/Global-Superstore-Dashboard.git) |
+| 🛒📊Global Superstore Dashboard(Power BI) |Microsoft Excel | [View Project](https://github.com/GauriPise/Global-Superstore-Dashboard.git) |
 
 
 ## 📊 GitHub Stats
